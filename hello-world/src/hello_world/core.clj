@@ -1,4 +1,4 @@
-(ns hello-wold.core)
+(ns hello-world.core)
 
 (defn foo
   "I don't do a whole lot."
